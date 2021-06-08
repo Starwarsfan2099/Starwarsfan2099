@@ -6,10 +6,7 @@
 
 [![Twitter: Starwarsfan2099](https://img.shields.io/twitter/follow/Starwarsfan2099?style=flat-square)](https://twitter.com/Starwarsfan2099)
 [![GitHub Starwarsfan2099](https://img.shields.io/github/followers/starwarsfan2099?label=follow%20github&style=flat-square)](https://github.com/starwarsfan2099)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=starwarsfan2099&label=Profile%20views&color=0e75b6&style=flat" alt="starwarsfan2099" /> </p>
-<br>
-</p>
+[![YouTube Starwarsfan2099](https://img.shields.io/youtube/channel/views/UCItEhjpXkiXJshhaHqTXeqw?style=flat-square](https://www.youtube.com/channel/UCItEhjpXkiXJshhaHqTXeqw)
 
 <h4 align="left">Personal blog:</h4>
 <p align="left">
