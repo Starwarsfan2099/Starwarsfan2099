@@ -8,11 +8,7 @@
 [![GitHub Starwarsfan2099](https://img.shields.io/github/followers/starwarsfan2099?label=follow%20github&style=flat-square)](https://github.com/starwarsfan2099)
 [![YouTube Starwarsfan2099](https://img.shields.io/youtube/channel/views/UCItEhjpXkiXJshhaHqTXeqw?style=flat-square)](https://www.youtube.com/channel/UCItEhjpXkiXJshhaHqTXeqw)
 
-<h4 align="left">Personal blog:</h4>
-<p align="left">
-<a href="https://starwarsfan2099.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://starwarsfan2099.github.io/" height="30" width="40" /></a>
-</p>
-
+[Personal blog](https://clarkiv.dev) [<img src="https://clarkiv.dev/assets/img/favicons/favicon-32x32.png" alt="https://clarkiv.dev/" height="32" width="32" align="left" />](https://starwarsfan2099.github.io/)
 <br>
 
 <!--
