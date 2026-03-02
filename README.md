@@ -1,5 +1,4 @@
 <h2>Starwarsfan2099!</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Starwarsfan2099&show_icons=true&theme=dark" width="380">
 <p><em>Interested in programming, hacking, forensics, and robotics!<br>
   Writing about stuff I find interesting or restoring mechanical calculators in my spare time away from tech!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
